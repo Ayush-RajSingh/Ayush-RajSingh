@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush-rajsingh" alt="ayush-rajsingh" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ayushra10758348" target="blank"><img src="https://img.shields.io/twitter/follow/ayushra10758348?logo=twitter&style=for-the-badge" alt="ayushra10758348" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/uYP_Nkq8VPsAAAAM/coding-hello-world.gif">
 
 - 🌱 I’m currently learning **AI,ML AND Data Science**
 
